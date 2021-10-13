@@ -1,0 +1,12 @@
+.contact-info{
+    background-color: white;
+    border-radius: 15px;
+    height:33vh;
+    font-size: 20px;
+}
+.info-short{
+    color:grey;
+}
+.info-item{
+    margin-left: 8%;
+}

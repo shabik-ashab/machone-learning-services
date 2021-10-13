@@ -1,0 +1,8 @@
+.card.h-100.my-card{
+    border: none;
+    border-radius: 20px;
+    background-color: white;
+}
+.card.h-100.my-card img{
+    border-radius: 20px;
+}

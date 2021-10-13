@@ -1,0 +1,9 @@
+.home{
+    min-height: 100vh;
+}
+.home-txt h1{
+    font-size: 4em;
+}
+.home-txt p{
+    color: dimgray;
+}
